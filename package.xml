@@ -8,9 +8,5 @@
         <members>*</members>
         <name>PlatformEventChannelMember</name>
     </types>
-    <!-- <types>
-        <members>cdcEventListener</members>
-        <name>LightningComponentBundle</name>
-    </types> -->
     <version>53.0</version>
 </Package>
